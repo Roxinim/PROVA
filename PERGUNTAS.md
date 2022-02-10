@@ -10,3 +10,8 @@ Pergunta nº3: O que é um repositório?
 Repositório é uma pasta de arquivos de um projeto, que pode ser local ou remota, 
 e que pode ser trabalhada por vários membros em conjunto.
 
+Pergunta nº4: O que é merge?
+Merge é a junção de uma Branch (ramificação do projeto) em outra, 
+trazendo as alterações que foram feitas na branch X para a branch Y, por exemplo.
+O merge não sincroniza as Branchs, as duas continuam existindo paralelamente.
+
