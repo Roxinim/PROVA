@@ -15,3 +15,5 @@ Merge é a junção de uma Branch (ramificação do projeto) em outra,
 trazendo as alterações que foram feitas na branch X para a branch Y, por exemplo.
 O merge não sincroniza as Branchs, as duas continuam existindo paralelamente.
 
+Pergunta nº5: O que é pull?
+Pull(puxar) é atualizar o repositório local com as alterações feitas no repositório remoto.
