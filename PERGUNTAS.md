@@ -17,3 +17,8 @@ O merge não sincroniza as Branchs, as duas continuam existindo paralelamente.
 
 Pergunta nº5: O que é pull?
 Pull(puxar) é atualizar o repositório local com as alterações feitas no repositório remoto.
+
+Pergunta nº6: O que é branch?
+Uma ramificação do projeto, onde podem existir várias "linhas do tempo" com alterações diferentes em cada uma, 
+sem que uma interfira a outra.
+
